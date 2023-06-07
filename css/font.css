@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+@font-face{
+    font-family:"NaverNanumSquareNeo";
+    font-weight: 100;
+    src:url(woff/NanumSquareNeoTTF-aLt.woff);
+	font-display: swap;
+}
+
+@font-face{
+    font-family:"NaverNanumSquareNeo";
+    font-weight: 400;
+    src:url(woff/NanumSquareNeoTTF-bRg.woff);
+	font-display: swap;
+}
+
+@font-face{
+    font-family:"NaverNanumSquareNeo";
+    font-weight: 600;
+    src:url(woff/NanumSquareNeoTTF-cBd.woff);
+	font-display: swap;
+}
+
+@font-face{
+    font-family:"NaverNanumSquareNeo";
+    font-weight: 800;
+    src:url(woff/NanumSquareNeoTTF-dEb.woff);
+	font-display: swap;
+}
+
+@font-face{
+    font-family:"NaverNanumSquareNeo";
+    font-weight: 900;
+    src:url(woff/NanumSquareNeoTTF-eHv.woff);
+	font-display: swap;
+}
+
+/* 배달의민족 주아 */
+@font-face {
+    font-family: 'BMJUA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMJUA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
